@@ -10,7 +10,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 public class Main {
     public static void main(String args[]) throws IOException {
-        boolean whileBool = false;
         HashMap<Character, Integer> assignVar = new HashMap<Character, Integer>();
         String line;
         String[] words;
